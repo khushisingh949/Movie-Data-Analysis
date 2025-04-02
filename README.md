@@ -70,7 +70,7 @@ Genres: Music, Drama, War, Sci-Fi, History.
 How to Use
 
 Clone this repository:
-git clone <[repository-url](https://github.com/khushisingh949/zomato-data-analysis-.git)>
+git clone <[repository-url](https://github.com/khushisingh949/Movie-Data-Analysis.git)>
 
 Install required dependencies:
 pip install pandas matplotlib seaborn numpy
